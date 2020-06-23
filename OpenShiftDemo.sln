@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenShiftDemo", "OpenShiftDemo.csproj", "{88C732CA-BC92-4CED-B3A5-E8A741D3C1AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88C732CA-BC92-4CED-B3A5-E8A741D3C1AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88C732CA-BC92-4CED-B3A5-E8A741D3C1AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88C732CA-BC92-4CED-B3A5-E8A741D3C1AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88C732CA-BC92-4CED-B3A5-E8A741D3C1AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E13A6839-1414-4A56-83B7-67A90723EB92}
+	EndGlobalSection
+EndGlobal
